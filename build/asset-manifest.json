@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/1st-cmplt-react-website/static/css/main.a596d5ce.chunk.css",
+    "main.js": "/1st-cmplt-react-website/static/js/main.61ce4043.chunk.js",
+    "main.js.map": "/1st-cmplt-react-website/static/js/main.61ce4043.chunk.js.map",
+    "runtime-main.js": "/1st-cmplt-react-website/static/js/runtime-main.1ed8990a.js",
+    "runtime-main.js.map": "/1st-cmplt-react-website/static/js/runtime-main.1ed8990a.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/1st-cmplt-react-website/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.7c5b0024.chunk.js": "/1st-cmplt-react-website/static/js/2.7c5b0024.chunk.js",
+    "static/js/2.7c5b0024.chunk.js.map": "/1st-cmplt-react-website/static/js/2.7c5b0024.chunk.js.map",
+    "static/js/3.89bc42af.chunk.js": "/1st-cmplt-react-website/static/js/3.89bc42af.chunk.js",
+    "static/js/3.89bc42af.chunk.js.map": "/1st-cmplt-react-website/static/js/3.89bc42af.chunk.js.map",
+    "index.html": "/1st-cmplt-react-website/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/1st-cmplt-react-website/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.a596d5ce.chunk.css.map": "/1st-cmplt-react-website/static/css/main.a596d5ce.chunk.css.map",
+    "static/js/2.7c5b0024.chunk.js.LICENSE.txt": "/1st-cmplt-react-website/static/js/2.7c5b0024.chunk.js.LICENSE.txt",
+    "static/media/Android.aea834b1.jpg": "/1st-cmplt-react-website/static/media/Android.aea834b1.jpg",
+    "static/media/Business.972ea349.jpg": "/1st-cmplt-react-website/static/media/Business.972ea349.jpg",
+    "static/media/Digital.a9bdd94e.jpg": "/1st-cmplt-react-website/static/media/Digital.a9bdd94e.jpg",
+    "static/media/Gadget.e8ba4275.jpg": "/1st-cmplt-react-website/static/media/Gadget.e8ba4275.jpg",
+    "static/media/Software.69de8cd1.jpg": "/1st-cmplt-react-website/static/media/Software.69de8cd1.jpg",
+    "static/media/Web.3ade4066.jpg": "/1st-cmplt-react-website/static/media/Web.3ade4066.jpg",
+    "static/media/home1.29420b26.png": "/1st-cmplt-react-website/static/media/home1.29420b26.png",
+    "static/media/rythik-PAf9rj_DKCU-unsplash.a650c5e9.jpg": "/1st-cmplt-react-website/static/media/rythik-PAf9rj_DKCU-unsplash.a650c5e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed8990a.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.7c5b0024.chunk.js",
+    "static/css/main.a596d5ce.chunk.css",
+    "static/js/main.61ce4043.chunk.js"
+  ]
+}

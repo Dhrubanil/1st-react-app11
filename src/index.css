@@ -93,9 +93,20 @@
 }
 
 .cardimg {
-  height: 350px;
+  height: 300px;
+  width: max-content;
   border-radius: 20px !important;
 }
+@media (max-width: 991px) {
+  header {
+    height: 80vh;
+    text-align: center;
+  }
+  #header .header-img {
+    text-align: center;
+  }
+}
+
 .btn_al1 {
   background-color: rgb(9, 92, 92) !important;
   border-radius: 10px !important;
@@ -108,7 +119,7 @@
   border: 2px solid black !important;
   border-radius: 20px !important;
   border-style: none !important;
-  width: 450px;
+  width: 350px;
   margin-bottom: 30px !important;
 }
 .card_h1:hover {
